@@ -1,2 +1,1 @@
-# fusion-wallet-sample
-Fusion Wallet is a free client-side interface for creating and using wallets. The Fusion wallet allows for asset creation/ management and uninhibited interoperability.
+c5072b039b5ad266c34739776679c4f791f7dcb9
